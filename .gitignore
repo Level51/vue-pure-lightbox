@@ -4,7 +4,6 @@ npm-debug.log
 yarn-error.log
 dist/*
 !dist/.gitkeep
-dist-module/
 
 # Editor directories and files
 .idea
