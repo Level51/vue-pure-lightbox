@@ -203,7 +203,7 @@
 
   .lightbox__image img {
     width: 100%;
-    height: auto !important;
+    height: auto;
   }
 
   @media screen and (max-width: 720px) {
